@@ -1,0 +1,181 @@
+/* CSS Document */
+.TituloFormulario {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #003366;
+	padding-left:4px;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+}
+.EtiquetaFormulario {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	color: #666666;
+	text-align:left;
+	padding-left: 4px;	
+	padding-top: 4px;
+	padding-right: 2px;
+	padding-bottom: 4px;
+}
+.EtiquetaRuc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	color: #666666;
+	text-align:right;
+	padding-left: 4px;	
+	padding-top: 4px;
+	padding-right: 2px;
+	padding-bottom: 4px;
+}
+.control {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	border: 1px solid #6F6F6F;
+	text-transform: uppercase;
+}
+
+.control_der {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	border: 1px solid #6F6F6F;
+	text-transform: uppercase;
+	text-align: right;
+}
+
+.controlmin {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	border: 1px solid #6F6F6F;
+	text-transform: lowercase;
+}
+.asterisco {
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF0000;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left: 3px;
+	padding-top: 5px;
+	padding-right: 2px;
+	padding-bottom: 5px;
+}
+.TextoGrilla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-transform: uppercase;
+	padding-left: 4px;	
+	padding-top: 4px;
+	padding-right: 2px;
+	padding-bottom: 4px;
+}
+.TituloGrande {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #003366;
+}
+.boton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #003366;
+	border: 2px #000000;
+	border-style:double;
+	padding: 3px;
+	cursor:pointer;
+}
+
+
+.textoDoc {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-weight: bold;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.fondoGris {
+	background-color: #EFEFEF;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.fondoBlanco {
+	background-color: #FFFFFF;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.textoCampo {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-weight: bold;
+	padding-right: 4px;
+	padding-left: 4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	text-transform:uppercase;
+}
+.textoCampoMinuscula {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-weight: bold;
+	padding-right: 4px;
+	padding-left: 4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	text-transform:lowercase;
+}
+.lnkTexto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+	padding-left: 15px;
+}
+.lnkTextoGrilla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: Black;
+	padding-left: 15px;
+	text-decoration:underline;
+}
+
+.lnkTextoGrilla:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color:	Red;
+	padding-left: 15px;
+	text-decoration:underline;
+}
+.lnkTexto:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000033;
+	padding-left: 15px;
+}
+
+.imagen{
+border:0px;
+cursor:pointer;
+  
+}

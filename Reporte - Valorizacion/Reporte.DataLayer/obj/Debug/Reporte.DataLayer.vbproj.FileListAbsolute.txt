@@ -1,0 +1,30 @@
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.DataLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.DataLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.DataLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.EntityLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.EntityLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reporte.DataLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.DataLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.DataLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.DataLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.EntityLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.EntityLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\bin\Reportes.EntityLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reporte.DataLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\bin\Reportes.DataLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\bin\Reportes.DataLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\bin\Reportes.DataLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\bin\Reportes.EntityLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\bin\Reportes.EntityLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\bin\Reportes.EntityLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\obj\Debug\Reporte.DataLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.DataLayer\obj\Debug\Reportes.DataLayer.pdb

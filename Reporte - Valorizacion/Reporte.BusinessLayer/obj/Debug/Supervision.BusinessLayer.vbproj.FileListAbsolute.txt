@@ -1,0 +1,143 @@
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+F:\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+F:\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+F:\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+F:\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+F:\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\Usuarios\_consultor_ogti_25.old\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.5\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\OneDrive\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb

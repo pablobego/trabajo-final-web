@@ -1,0 +1,24 @@
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\bin\Supervision.DataLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\bin\Supervision.DataLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\bin\Supervision.EntityLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\bin\Supervision.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\bin\Supervision.EntityLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\obj\Release\Supervision.DataLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\obj\Release\Supervision.DataLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.DataLayer\obj\Release\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\obj\Release\Supervision.DataLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\obj\Release\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\obj\Release\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.DataLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\obj\Release\Supervision.DataLayer.vbprojResolveAssemblyReference.cache
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\obj\Release\Supervision.DataLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.DataLayer\obj\Release\Supervision.DataLayer.xml

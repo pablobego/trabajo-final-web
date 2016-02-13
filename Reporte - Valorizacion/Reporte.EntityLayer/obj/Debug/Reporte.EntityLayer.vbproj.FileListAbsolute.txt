@@ -1,0 +1,18 @@
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\bin\Reportes.EntityLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\bin\Reportes.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\bin\Reportes.EntityLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\bin\Reportes.EntityLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\bin\Reportes.EntityLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\bin\Reportes.EntityLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.EntityLayer\bin\Reportes.EntityLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.EntityLayer\bin\Reportes.EntityLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.EntityLayer\bin\Reportes.EntityLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.EntityLayer\obj\Debug\Reportes.EntityLayer.pdb

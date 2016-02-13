@@ -1,0 +1,7 @@
+bin\Supervision.EntityLayer.dll
+bin\Supervision.EntityLayer.pdb
+bin\Supervision.EntityLayer.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Supervision.EntityLayer.dll
+obj\Debug\Supervision.EntityLayer.xml
+obj\Debug\Supervision.EntityLayer.pdb

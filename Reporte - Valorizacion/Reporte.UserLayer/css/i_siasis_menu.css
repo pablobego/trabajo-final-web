@@ -1,0 +1,57 @@
+/* CSS Document */
+.i_texto_titulo_opciones_01{
+
+font-family: Verdana, Arial, Helvetica, sans-serif ;
+font-size:10px;
+font-weight:bold;
+
+text-align: left;
+color:#4D6980;
+}
+.i_texto_opciones_01{
+
+font-family: Verdana, Arial, Helvetica, sans-serif ;
+font-size:10px;
+font-weight:bold;
+text-decoration:none;
+text-align: left;
+color:#4D6980;
+
+}
+
+.i_texto_opciones_01:hover{
+
+font-family: Verdana, Arial, Helvetica, sans-serif ;
+font-size:10px;
+font-weight:bold;
+text-decoration:none;
+text-align: left;
+color: #003366;
+
+}
+
+.i_texto_no_efecto:hover{
+text-decoration:none
+}
+
+.i_texto_no_efecto{
+text-decoration:none
+}
+
+
+.i_vineta_01{
+
+padding-bottom:5px;
+padding-top:5px;
+padding-right:2px;
+padding-left:5px;
+
+}
+
+.i_efecto_celda{
+background-color: #FFFFFF;
+}
+
+.i_efecto_celda:hover{
+background-color:#F0F0F8;
+}

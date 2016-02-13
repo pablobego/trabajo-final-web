@@ -1,0 +1,338 @@
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\megaman\Desktop\SIASIS\Checkout\siasis\trunk\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\cambiocasanoche\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiocasareparado\mando_gonzalo\SIASIS.Supervision\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\01.01AplicacionesVictor\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\vbarrientos\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\union\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_colgar\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\Administrador\Escritorio\fuentes_20100509\fuente_supervision_desarrollo\Copia de cambiar_button_extender\local_sis\prueba1\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\SME\2005\SupervisionSME\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\SME\2005\SupervisionPCPP\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\32.32ProyectoPCPP\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\JHONY\Desktop\JOSE LIUIS LLERENA\Entrega a Jose - pcpp\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Users\JHONY\Desktop\Fuentes\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+C:\Documents and Settings\consultor_joseluis\Escritorio\FUENTE_ULTIMA_PCPP\Fuentes\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\01.Proyectos\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRUEBAS\FUENTES_ACTUAL\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\PROYECTOS PCPP\PRODUCCION\PCPP_CD\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\bin\Supervision.EntityLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\datos jborrego\Mis documentos\SIS\PCPP\FUENTES_ACTUAL\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb

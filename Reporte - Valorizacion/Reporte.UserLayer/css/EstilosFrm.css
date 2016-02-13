@@ -1,0 +1,283 @@
+.rbn
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:9px;
+    color:#1F3DB9;
+    font:bold;
+}
+.Frm_Fondo_fila_01 {
+	BACKGROUND-COLOR: #efefef
+}
+.Frm_Texto_Etiqueta2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.Frm_Texto_Etiqueta3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.Frm_Fondo_fila_02 {
+	BACKGROUND-COLOR: #ffffff
+}
+.Frm_Espacio_Encabezado {
+	PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+.Frm_Texto_TituloGeneral {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 3px; COLOR: #003366; PADDING-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.Frm_Texto_TituloGeneral2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003366;FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.Frm_Texto_01 {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 4px; COLOR: #003366; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Frm_Texto_cabecera {
+	PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; COLOR: #006699; PADDING-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.Frm_Texto_TituloEncabezado {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; COLOR: #4a4a4a; PADDING-TOP: 2px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #dee6ef; TEXT-ALIGN: left
+}
+.Frm_Texto_TituloEncabezado2 {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../fotos/i_fondo_texto_encabezado_01.jpg); PADDING-BOTTOM: 5px; COLOR: #4a4a4a; PADDING-TOP: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.Frm_Texto_Etiqueta {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #666666; PADDING-TOP: 2px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.Frm_Texto_Etiqueta2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.Frm_Texto_EtiquetaC {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #666666; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.Frm_Texto_base {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.Frm_Texto_basel {
+	PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.Frm_Texto_base2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #cc3301; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.Frm_Texto_pie {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.frm_Texto_Control_Desactivado {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 11px; BACKGROUND: #e2ecfa; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #111111; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_Texto_Control_Desactivadox {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 11px; BACKGROUND: #dddddd; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #111111; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_Texto_Control_Condisional {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 11px; BACKGROUND: #dedede; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #111111; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_Texto_Control_may {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #333333; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_Texto_Control_Mayuscula {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #333333; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_Texto_Control_der {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #333333; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+.frm_Texto_Control_min {
+	BORDER-RIGHT: #6f6f6f 1px solid; BORDER-TOP: #6f6f6f 1px solid; FONT-SIZE: 11px; TEXT-TRANSFORM: lowercase; BORDER-LEFT: #6f6f6f 1px solid; COLOR: #333333; BORDER-BOTTOM: #6f6f6f 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.asterisco {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #ff0000; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_texto_grilla_cabecera {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #ffffff; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #003366
+}
+.frm_texto_grilla_cabecera_r {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #4a4a4a; PADDING-TOP: 2px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #dee6ef
+}
+.frm_texto_grilla_filaoscura {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: #666666; PADDING-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #efefef
+}
+.frm_texto_grilla_filaoscura_r {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: normal; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #efefef
+}
+.frm_texto_grilla_filablanca {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: #666666; PADDING-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.frm_texto_grilla_filablanca_r {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: normal; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.TextoGrilla {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; TEXT-TRANSFORM: uppercase; COLOR: #333333; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.TituloGrande {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003366; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.boton {
+	BORDER-RIGHT: #000000 1px double; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px double; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; BORDER-LEFT: #000000 1px double; CURSOR: pointer; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 1px double; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #006699
+}
+.textoDoc {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	MARGIN: 0px
+}
+.fondoGris {
+	PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #efefef
+}
+.fondoBlanco {
+	PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+.Frm_Texto_Campo {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; TEXT-TRANSFORM: uppercase; COLOR: #333333; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textoCampoMinuscula {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; TEXT-TRANSFORM: lowercase; COLOR: #333333; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.lnkTexto {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.TextoResalte {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+.lnkTexto:hover {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000033; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.frm_imagen {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; CURSOR: pointer; BORDER-BOTTOM: 0px
+}
+.btn_Agregar {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 18px; BACKGROUND: url(../fotos/i_add_Int.gif) #ffffff no-repeat; PADDING-BOTTOM: 6px; FONT: 13pt Verdana, Arial, Helvetica, sans-serif; CURSOR: pointer; COLOR: #156a8d; PADDING-TOP: 6px
+}
+.btn_Quitar {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 18px; BACKGROUND: url(../fotos/i_del_Int.gif) #ffffff no-repeat; PADDING-BOTTOM: 6px; FONT: 13pt Verdana, Arial, Helvetica, sans-serif; CURSOR: pointer; COLOR: #156a8d; PADDING-TOP: 6px
+}
+
+/* AUMENTE GRID */
+/* styles for the grid */
+
+/* base table styles  */
+table.grid
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+	border: solid 1px #99aabd;
+}
+/* common header and data dell styles  */
+/* data cell styles */
+.grid td /*, .grid th*/ 
+{
+    height: 13px;
+    /*border-right: solid 1px #fff;*/
+    vertical-align: middle;
+    text-align: left;
+    font-size: 9px;
+    vertical-align: middle;
+    cursor: default;
+}
+
+/* header cell styles */
+
+/*comentado por jhony */
+
+
+
+/* header cell link styles 
+.grid th a
+{
+    font-size: 10px;
+    color: #fff;
+    font-weight: bold;
+	text-decoration: none;
+	text-align: left;
+	display: block;
+	padding: 0px;
+	width: 80%;
+}
+*/
+.grid th img
+{
+	text-align : right;
+	display: block;
+	padding: 0px; 
+	width: 12px; 
+	height: 12px; 
+}
+
+/* footeer grid */
+.footer_grid 
+{
+	height: 12px;
+	font-weight: bold;
+	font-size: 10px;
+	color: White;
+    border: solid 1px #fff;
+    text-align: right;
+    background-color: #336699;
+    text-transform: uppercase;
+	padding-bottom: 1px;
+    padding-right: 1px;  
+} 
+
+/* command cell styles */
+.grid td.command
+{
+    padding:3px 6px;
+    text-align:center;
+    vertical-align:middle;
+}
+
+/* command input cursor styles */
+.grid td.command input { cursor:hand; }
+
+/* edit data cell styles */
+.grid .editrowstyle{ background-color:#feffc5; }
+
+/* alternating data cell styles */
+.grid .altrowstyle { background-color:#ECF2F8; }
+
+/* sort asc header style */
+.grid .sortascheader a { background:url(img/dt-arrow-up.png) no-repeat right 50%; } 
+
+/* sort desc header style  */
+.grid .sortdescheader a { background:url(img/dt-arrow-dn.png) no-repeat right 50%; } 
+
+/*********************************
+Grilla
+*********************************/
+.Grid {
+  border-collapse: collapse;
+  border: 0px solid #666666;
+  font: normal 11px verdana, arial, helvetica, sans-serif;
+  color: #363636;
+  background: #f6f6f6;
+  text-align:left;
+}
+.Grid thead {
+background:url(../fotos/imgNew/i_fondo_titulo_tabla.png) repeat-x;
+text-align:left;
+height:120px;
+}
+.Grid thead td, tfoot td {
+FONT-WEIGHT: bold; 
+FONT-SIZE: 10px; 
+COLOR: #000000; 
+FONT-FAMILY: Arial, Helvetica, sans-serif;
+text-align:center;
+}
+.Grid a {
+color: #333333;
+text-decoration:none;
+}
+.Grid a:hover {
+text-decoration:underline;
+}
+tr.odd {
+background: #f1f1f1;
+}
+.Grid tbody th, tbody td {
+padding:5px;
+PADDING-RIGHT: 2px; 
+PADDING-LEFT: 4px; 
+FONT-SIZE: 10px;
+FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.Grid tbody tr:hover {
+color: #000; background: #ffffee;
+}
+/******************************************************************/

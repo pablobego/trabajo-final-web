@@ -1,0 +1,12 @@
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.EntityLayer\bin\Supervision.EntityLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.EntityLayer\bin\Supervision.EntityLayer.xml
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.EntityLayer\obj\Release\Supervision.EntityLayer.dll
+D:\Usuarios\consultor_ogti_25\_SIS v0.5\PCPP\Fuentes\Supervision.EntityLayer\obj\Release\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\obj\Release\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS v0.6\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\obj\Release\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\bin\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\bin\Supervision.EntityLayer.xml
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\obj\Release\Supervision.EntityLayer.dll
+C:\Users\consultor_ogti_25\_SIS\PCPP\PCPP _ Aplicativo\Supervision.EntityLayer\obj\Release\Supervision.EntityLayer.xml

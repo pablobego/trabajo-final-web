@@ -1,0 +1,51 @@
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.DataLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\bin\Supervision.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Reporte.BusinessLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\PCPP _ Aplicativo\Supervision.BusinessLayer\obj\Debug\Supervision.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.DataLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.EntityLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.DataLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.DataLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.EntityLayer.pdb
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.EntityLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reporte.BusinessLayer.vbprojResolveAssemblyReference.cache
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.dll
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.xml
+D:\Usuarios\consultor_ogti_30\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.DataLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.EntityLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.DataLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.DataLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.EntityLayer.pdb
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\bin\Reportes.EntityLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reporte.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.dll
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.xml
+C:\Users\Pablo Benites\Desktop\Reporte - Valorizacion\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.BusinessLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.DataLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.EntityLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.DataLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.DataLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.EntityLayer.pdb
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\bin\Reportes.EntityLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\obj\Debug\Reporte.BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.dll
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.xml
+C:\Users\Administrador\Desktop\Reporte - Valorizacion11\Reporte.BusinessLayer\obj\Debug\Reportes.BusinessLayer.pdb
